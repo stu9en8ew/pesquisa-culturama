@@ -91,7 +91,8 @@ input:valid, select:valid, textarea:valid {
     border-color:green;
 }
 
-input[type="tel"]{
+input[type="tel"],
+input[type="file"]{
     margin-bottom: 0;
 }
 
