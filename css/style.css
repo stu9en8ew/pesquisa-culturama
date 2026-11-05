@@ -91,6 +91,15 @@ input:valid, select:valid, textarea:valid {
     border-color:green;
 }
 
+input[type="tel"]{
+    margin-bottom: 0;
+}
+
+small {
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
 button {
     width: 100px;
     height: 30px;
